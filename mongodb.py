@@ -10,12 +10,12 @@ import urllib.parse
 import datetime
 
 ##### 資料庫設定 #####
-host = 'ds127634.mlab.com' #主機位置
-port = '27634' #port號碼
-username = urllib.parse.quote_plus('stock2018') #使用者帳號
-password = urllib.parse.quote_plus('Kung@4711') #使用者密碼
+host = '' #主機位置
+port = '' #port號碼
+username = urllib.parse.quote_plus('') #使用者帳號
+password = urllib.parse.quote_plus('') #使用者密碼
 # Authentication Database認證資料庫
-Authdb='20181209stock'
+Authdb=''
 
 ###############################################################################
 #                           LineBot股票機器人mongoDB#                          #
